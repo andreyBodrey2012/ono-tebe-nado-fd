@@ -144,7 +144,7 @@ main {
 }
 
 .logo {
-    width: 148px;
+    width: 136px;
     height: 105px;
 }
 
@@ -160,6 +160,7 @@ main {
     font-size: 40px;
     line-height: 46.96px;
     text-align: left;
+    position: relative;
 }
 
 .lots_item {
