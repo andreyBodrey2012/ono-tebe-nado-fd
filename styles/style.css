@@ -204,6 +204,7 @@ main {
     text-align: left;
     color: white;
     text-decoration-line: underline;
+    
     text-decoration-style: solid;
     z-index: 2;
 }
