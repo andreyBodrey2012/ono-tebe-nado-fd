@@ -127,6 +127,7 @@ main {
 }
 
 .cover_bottom {
+    cursor: pointer;
     position: absolute;
     z-index: 2;
     width: 100%;
@@ -418,4 +419,4 @@ main {
     height: 48px;
     margin-top: 1px;
     margin-left: 43px;
-}/* место для вашего кода */
+}
