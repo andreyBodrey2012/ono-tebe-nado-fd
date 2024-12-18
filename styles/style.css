@@ -340,7 +340,7 @@ main {
     padding-left: 50px;
 }
 
-.address.footer__address > a:not(:last-child){
+.address.footer__address > a:not(:last-child) {
     text-decoration: underline;
     text-underline-offset: 3px;
     text-decoration-thickness: 1px;
